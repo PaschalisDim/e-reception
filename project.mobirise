@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "E-reception",
-    "currentPage": "about-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,11 +47,12 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "favicon": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-174181162-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-174181162-1');\n</script>\n"
   },
   "pages": {
     "index.html": {
