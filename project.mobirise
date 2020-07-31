@@ -51,10 +51,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png",
-    "publishType": "mbrsite",
-    "mbrsite": "mbrsite://%7B%22id%22%3A72068%2C%22domain%22%3A%22e-reception.mobirisesite.com%22%7D",
-    "ftpLocation": "sftp://myuser:MySuperSecretPassword@s-17697792db0547718.server.transfer.eu-west-1.amazonaws.com:21"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
