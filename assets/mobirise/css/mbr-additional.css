@@ -1092,7 +1092,74 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/reception05-765x460.jpg");
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-qTkA127IK8 H1 {
+  color: #ffffff;
+}
+.cid-s82vb20RXU {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #f9f9f9;
+}
+.cid-s82vb20RXU p {
+  color: #767676;
+}
+.cid-s82vb20RXU .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s82vb20RXU .accordion-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-s82vb20RXU .panel-group {
+  width: 100%;
+}
+.cid-s82vb20RXU .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-s82vb20RXU .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-s82vb20RXU .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-s82vb20RXU .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-s82vb20RXU .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-s82vb20RXU .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-s82vb20RXU .mbr-figure {
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
+}
+@media (max-width: 991px) {
+  .cid-s82vb20RXU .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 2rem;
+  }
 }
 .cid-s635CaYlDi {
   padding-top: 90px;
